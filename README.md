@@ -1,15 +1,35 @@
 # 📘 README — Employee Salary Dataset
 
 ## 📂 File Name
-Employee_Salary_Data.xlsx
+`Employee_Salary_Data.xlsx`
 
 ---
 
 ## 📄 Description
-This dataset provides a comprehensive overview of employee demographics, education levels, job roles, years of experience, and corresponding salary levels.  
-It is designed to support analysis, visualization, and dashboard creation in **Microsoft Excel** and **Power BI**.
+This dataset provides a comprehensive overview of employee demographics, education levels, job titles, years of professional experience, and salary information.  
+It supports workforce and compensation analysis — helping identify patterns in salary distribution, experience, education, and gender representation.  
 
-The data enables exploration of workforce structure, salary trends, and experience-based compensation differences.
+The dataset is ideal for **Excel dashboards**, **Power BI reports**, and **HR analytics projects** that aim to explore workforce diversity and pay trends.
+
+---
+
+## ❓ Business Questions
+These five key questions guide the analysis and visualization process:
+
+1. **What is the average salary across different job titles?**  
+   *Purpose:* To determine which job roles offer the highest and lowest pay.
+
+2. **How does education level affect employee salary?**  
+   *Purpose:* To see if higher education translates to better compensation.
+
+3. **Is there a gender pay gap within the organization?**  
+   *Purpose:* To analyze if salary differences exist between male and female employees.
+
+4. **How does years of experience influence salary levels?**  
+   *Purpose:* To understand how professional experience impacts earnings.
+
+5. **Which job titles have the highest number of employees?**  
+   *Purpose:* To identify the most common roles within the workforce.
 
 ---
 
@@ -17,60 +37,48 @@ The data enables exploration of workforce structure, salary trends, and experien
 
 | Column Name           | Description                                      | Example              |
 |------------------------|--------------------------------------------------|----------------------|
-| Age                   | Employee's age (in years)                        | 32                   |
-| Gender                | Employee gender (Male/Female)                    | Male                 |
-| Education Level        | Highest education attained                       | Bachelor's           |
-| Job Title             | Role or designation within the organization      | Software Engineer    |
-| Years of Experience   | Total professional experience in years           | 5                    |
-| Salary                | Annual compensation (USD or Naira)               | 90000                |
+| **Age**                | Employee's age (years)                           | 32                   |
+| **Gender**             | Employee gender (Male/Female)                    | Female               |
+| **Education Level**    | Highest qualification attained                   | Master's             |
+| **Job Title**          | Employee’s position or role                      | Product Manager      |
+| **Years of Experience**| Total years of professional experience           | 7                    |
+| **Salary**             | Annual pay in Naira or USD                       | 120000               |
+
+---
+
+## 🔍 Possible Analyses
+The following analyses will be conducted to answer the business questions:
+
+1. **Average Salary by Job Title** — Identify high- and low-paying roles.  
+2. **Salary by Education Level** — Examine how education affects compensation.  
+3. **Salary by Years of Experience** — Assess how experience impacts pay.  
+4. **Gender Pay Comparison** — Compare average salaries between male and female employees.  
+5. **Top Job Titles (by Count)** — Identify the most common positions in the organization.
 
 ---
 
 ## 🎯 Purpose
-The dataset supports:
-- Salary and compensation benchmarking  
-- Experience and education-based salary analysis  
-- Workforce demographic insights  
-- Gender-based pay gap analysis  
-- Job title and industry trend visualization  
+The dataset is intended for:
+- Salary benchmarking and workforce analysis  
+- HR decision-making and pay equity studies  
+- Power BI and Excel dashboard storytelling  
+- Workforce composition visualization  
 
 ---
 
-## 📈 Possible Analyses
-1. Average salary by education level  
-2. Salary vs. years of experience  
-3. Gender distribution and pay comparison  
-4. Top-paying job titles  
-5. Salary distribution across age groups  
-
----
-
-## 🧩 Tools Recommended
-- **Microsoft Excel:** PivotTables, slicers, charts, and dashboards  
-- **Power BI:** Interactive visuals, DAX measures, and data storytelling  
+## 🧭 Recommended Tools
+- **Microsoft Excel:** For PivotTables, slicers, and KPI dashboards  
+- **Power BI:** For interactive visuals, DAX-based KPIs, and data storytelling  
 
 ---
 
 ## ⚙️ Notes
-- All data is **fictional** and for **educational or analytical demonstration purposes only**.  
-- Ensure the dataset is formatted as an **Excel Table** before use in dashboards.  
-- Consistent column names are required for seamless linking between Excel and Power BI.  
+- All data is **fictional** and used solely for **educational and analytical demonstrations**.  
+- Keep column headers consistent for proper referencing in Power BI and Excel.  
+- Format the dataset as an **Excel Table** before building visuals.  
 
 ---
 
-## 🚀 How to Use in Power BI
-1. Open **Power BI Desktop**.  
-2. Go to **Home → Get Data → Excel Workbook**.  
-3. Select `Employee_Salary_Data.xlsx`.  
-4. Load the table named `Employee_Data`.  
-5. Create visuals:
-   - KPI Cards (Total Employees, Avg Salary, Avg Experience)
-   - Bar Chart (Job Title Frequency)
-   - Pie Chart (Gender Ratio)
-   - Slicers (Gender, Education Level, Job Title)
-6. Apply formatting and themes for a professional dashboard view.
+© 2025 — Employee Salary Analytics Project by [OGUIKE CHIDINMA PATIENCE]
 
----
 
-© 2025 — Employee Salary Analytics Project by [OGUIKE CHIDINMA PATIENCE
-]
