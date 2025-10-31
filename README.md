@@ -81,4 +81,5 @@ The dataset is intended for:
 
 © 2025 — Employee Salary Analytics Project by [OGUIKE CHIDINMA PATIENCE]
 
+You can reach me via emai (dinmas7heritage@gmail.com)
 
