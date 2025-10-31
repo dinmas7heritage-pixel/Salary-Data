@@ -1,9 +1,9 @@
 # 📘 README — Employee Salary Dataset
 
+![Image](https://github.com/user-attachments/assets/3689563b-6379-4ba7-87ea-6e670fb07ad0)
 ## 📂 File Name
 `Employee_Salary_Data.xlsx`
 
----
 
 ## 📄 Description
 This dataset provides a comprehensive overview of employee demographics, education levels, job titles, years of professional experience, and salary information.  
