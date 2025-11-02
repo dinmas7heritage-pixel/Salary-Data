@@ -39,62 +39,76 @@ It contains over 6,700 records, allowing for deep analysis of workforce composit
 
 ---
 
-## ❓ Business Questions and Insights
+# 💼 Employee Salary Data Analysis Dashboard
+
+## 🧾 Dataset Description
+This dataset provides a detailed overview of **employee demographics, education levels, job titles, years of experience, and salary information**.  
+It contains **over 6,700 records**, allowing for in-depth analysis of workforce characteristics and pay structures across industries and roles.
+
+---
+
+## ❓ Business Questions & Insights
 
 ### 1️⃣ What is the average salary across different job titles?
-**Purpose:** To determine which job roles offer the highest and lowest pay.  
-**Insight:** Senior and executive roles such as CEO, CTO, and Directors earn ₦170K–₦250K, while junior and support roles earn below ₦50K.  
-➡️ *Conclusion:* There’s a strong link between job seniority and compensation.
+**Purpose:** Determine which job roles offer the highest and lowest pay.  
+**Insight:** Senior and executive roles such as **CEO, CTO, and Directors** earn between **₦170K–₦250K**, while **junior and support roles** earn below **₦50K**.  
+➡️ **Conclusion:** There’s a strong link between **job seniority and compensation**.
 
 ---
 
 ### 2️⃣ How does education level affect employee salary?
-**Purpose:** To see if higher education translates to better compensation.  
-**Insight:** Employees with advanced degrees earn significantly more.  
-Average salary rises from ₦92K for Bachelor’s to ₦160K for PhD holders.  
-➡️ *Conclusion:* Higher education correlates with higher pay.
+**Purpose:** Examine if higher education translates to better compensation.  
+**Insight:** Employees with **advanced degrees** earn significantly more.  
+Average salary rises from **₦92K for Bachelor’s** to **₦160K for PhD holders**.  
+➡️ **Conclusion:** Higher education strongly correlates with higher pay.
 
 ---
 
 ### 3️⃣ Is there a gender pay gap within the organization?
-**Purpose:** To analyze if salary differences exist between male and female employees.  
-**Insight:** Male employees earn about ₦10K more than female employees (₦118K vs ₦108K).  
-➡️ *Conclusion:* A small but noticeable gender pay gap exists.
+**Purpose:** Analyze whether salary differences exist between male and female employees.  
+**Insight:** **Male employees** earn about **₦10K more on average** than **female employees** (₦118K vs ₦108K).  
+➡️ **Conclusion:** A **small but noticeable gender pay gap** exists.
 
 ---
 
 ### 4️⃣ How does years of experience influence salary levels?
-**Purpose:** To understand how professional experience impacts earnings.  
-**Insight:** Salaries rise steadily with years of experience — ₦82K (0–10 years) to ₦183K (30–40 years).  
-➡️ *Conclusion:* Strong positive correlation between experience and earnings.
+**Purpose:** Understand how professional experience impacts earnings.  
+**Insight:** Salaries increase steadily with experience — from **₦82K (0–10 years)** to about **₦183K (30–40 years)**.  
+➡️ **Conclusion:** There’s a **strong positive correlation** between experience and salary.
 
 ---
 
 ### 5️⃣ Which job titles have the highest number of employees?
-**Purpose:** To identify the most common roles within the workforce.  
-**Insight:** Job roles such as Sales Associate, Data Analyst, and Software Engineer appear most frequently.  
-➡️ *Conclusion:* These roles represent the largest share of the organization’s workforce.
+**Purpose:** Identify the most common roles within the workforce.  
+**Insight:** Roles such as **Sales Associate, Data Analyst, and Software Engineer** appear most frequently.  
+➡️ **Conclusion:** These positions represent the **largest share of the organization’s workforce**.
 
 ---
 
-## 📈 Possible Analysis / Visuals
-- Average Salary by Job Title  
-- Salary by Education Level  
-- Salary by Years of Experience  
-- Gender Pay Comparison  
-- Top Job Titles (by Count)
+## 📊 Possible Analyses & Visuals
+- 💰 Average Salary by Job Title  
+- 🎓 Salary by Education Level  
+- ⏱️ Salary by Years of Experience  
+- ⚖️ Gender Pay Comparison  
+- 👥 Top Job Titles (by Count)
 
 ---
 
-## 🛠️ Tools Used
-- Microsoft Excel (Pivot Tables, Charts, and Dashboards)  
-- Power BI (Interactive Visuals)
+## 🧰 Tools Used
+- **Microsoft Excel** → Pivot Tables, Charts, and Dashboard Layout  
+- **Power BI** → Interactive Visuals and Data Storytelling  
 
 ---
 
-## 🧭 Author
+## 👩‍💻 Author
 **Chidinma Oguike**  
-*Data Analyst | Finance Professional | Customer Service Expert*
+*Data Analyst | Finance Professional | Customer Service Expert*  
+
+
+---
+
+⭐ *If you find this project insightful, don’t forget to star the repository!* ⭐
+
 
 
 
